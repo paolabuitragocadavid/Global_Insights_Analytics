@@ -1,0 +1,119 @@
+[
+  {
+    "iso3": "ESP",
+    "doc_id": "OECD_ESP_2025",
+    "country": "España",
+    "year": 2025,
+    "title": "OECD Economic Surveys Spain 2025",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/oecd-economic-surveys-spain-2025_cd5c7d04/abc5c435-en.pdf",
+    "doi": "https://doi.org/10.1787/abc5c435-en",
+    "license": "CC BY 4.0",
+    "counts": {
+      "Conectividad e infraestructura": 1,
+      "Competencias digitales": 14,
+      "Adopción empresarial": 16,
+      "Inclusión y brechas": 5,
+      "Regulación y confianza": 2
+    },
+    "sentences": 26,
+    "document_sentences_count": 94,
+    "example": "By leveraging Spain’s strong digitalisation position, SMEs can benefit from an enhanced use of digital technologies, including artificial intelligence (AI) which can help automating tasks,…",
+    "page": 71,
+    "examples": {
+      "Conectividad e infraestructura": {
+        "text": "This poses a particular challenge for SMEs, which often struggle to identify or categorize their R&D or innovation activities in ways 0 20 40 60…",
+        "page": 74
+      },
+      "Competencias digitales": {
+        "text": "Closing skills gaps to boost SMEs’ productivity Despite a relatively educated population, the workforce in Spain has significant skills gaps, including in digital, managerial and…",
+        "page": 76
+      },
+      "Adopción empresarial": {
+        "text": "Fostering technology uptake and lowering innovation gaps While basic digitalization among Spanish SMEs is above the UE average, the adoption of more advanced technologies such…",
+        "page": 79
+      },
+      "Inclusión y brechas": {
+        "text": "To tackle this issue, Digital Spain 2025 and the National Digital Competences Plan specifically target the digital gender divide on ICT, aiming to boost women's…",
+        "page": 78
+      },
+      "Regulación y confianza": {
+        "text": "This poses a particular challenge for SMEs, which often struggle to identify or categorize their R&D or innovation activities in ways 0 20 40 60…",
+        "page": 74
+      }
+    }
+  },
+  {
+    "iso3": "CHL",
+    "doc_id": "OECD_CHL_2025",
+    "country": "Chile",
+    "year": 2025,
+    "title": "OECD Economic Surveys Chile 2025",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/01/oecd-economic-surveys-chile-2025_049bebf1/efad96ce-en.pdf",
+    "doi": "https://doi.org/10.1787/efad96ce-en",
+    "license": "CC BY 4.0",
+    "counts": {
+      "Conectividad e infraestructura": 8,
+      "Competencias digitales": 8,
+      "Adopción empresarial": 4,
+      "Inclusión y brechas": 2,
+      "Regulación y confianza": 3
+    },
+    "sentences": 28,
+    "document_sentences_count": 119,
+    "example": "In Chile, a slightly higher share of young women than men are university graduates, but women enrol less in STEM, digital and other high-return skills…",
+    "page": 64,
+    "examples": {
+      "Conectividad e infraestructura": {
+        "text": "Closing connectivity gaps Chile has one of the highest internet penetration rates in the Latin American region (OECD, 2024[9]) even if it still lags behind…",
+        "page": 72
+      },
+      "Competencias digitales": {
+        "text": "A lengthy and complex permit system, low digital skills and digital uptake among SMEs, and persistently low female labour force participation weaken Chile’s medium term…",
+        "page": 11
+      },
+      "Adopción empresarial": {
+        "text": "Chile can leverage the digital transformation to lift productivity across industries and promote the diffusion of knowledge across firms taking advantage of its good digital…",
+        "page": 70
+      },
+      "Inclusión y brechas": {
+        "text": "Closing connectivity gaps Chile has one of the highest internet penetration rates in the Latin American region (OECD, 2024[9]) even if it still lags behind…",
+        "page": 72
+      },
+      "Regulación y confianza": {
+        "text": "To further reap the benefits of the digital transformation and to leverage new tools such as AI to boost productivity and growth, Chile needs to…",
+        "page": 71
+      }
+    }
+  },
+  {
+    "iso3": "COL",
+    "doc_id": "OECD_COL_2024",
+    "country": "Colombia",
+    "year": 2024,
+    "title": "OECD Economic Surveys Colombia 2024",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/09/oecd-economic-surveys-colombia-2024_7b382d76/a1a22cd6-en.pdf",
+    "doi": "https://doi.org/10.1787/a1a22cd6-en",
+    "license": "CC BY 4.0",
+    "counts": {
+      "Conectividad e infraestructura": 2,
+      "Competencias digitales": 0,
+      "Adopción empresarial": 0,
+      "Inclusión y brechas": 1,
+      "Regulación y confianza": 0
+    },
+    "sentences": 3,
+    "document_sentences_count": 18,
+    "example": "Cost is a major impediment for internet connectivity of poor households, with only 40% of poorest quintile households connected to the internet compared to 93%…",
+    "page": 84,
+    "examples": {
+      "Conectividad e infraestructura": {
+        "text": "Cost is a major impediment for internet connectivity of poor households, with only 40% of poorest quintile households connected to the internet compared to 93%…",
+        "page": 84
+      },
+      "Inclusión y brechas": {
+        "text": "As pointed out by a previous OECD Economic Survey and the 2022 Rural Policy Review, Colombia is the OECD country with the largest rural -urban…",
+        "page": 83
+      }
+    }
+  }
+]
