@@ -30,7 +30,7 @@ Presenta los resultados del análisis de sensibilidad
 del índice exploratorio bajo diferentes escenarios
 de ponderación.
 
-### 5. figures/evolucion.png
+### 5. evolucion.png
 Figura que representa la evolución temporal del
 uso de Internet en los países analizados.
 
