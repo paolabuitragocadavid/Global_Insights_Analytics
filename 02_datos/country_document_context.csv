@@ -1,0 +1,14 @@
+iso3,country,documents_count,digital_sentences_count,document_years,doc_ids,Conectividad e infraestructura,Competencias digitales,Adopción empresarial,Inclusión y brechas,Regulación y confianza,has_document
+ARG,Argentina,,,,,,,,,,False
+BOL,Bolivia,,,,,,,,,,False
+BRA,Brasil,,,,,,,,,,False
+CHL,Chile,1.0,28.0,2025,OECD_CHL_2025,8.0,8.0,4.0,2.0,3.0,True
+COL,Colombia,1.0,3.0,2024,OECD_COL_2024,2.0,0.0,0.0,1.0,0.0,True
+CRI,Costa Rica,,,,,,,,,,False
+ECU,Ecuador,,,,,,,,,,False
+ESP,España,1.0,26.0,2025,OECD_ESP_2025,1.0,14.0,16.0,5.0,2.0,True
+MEX,México,,,,,,,,,,False
+PAN,Panamá,,,,,,,,,,False
+PRY,Paraguay,,,,,,,,,,False
+PER,Perú,,,,,,,,,,False
+URY,Uruguay,,,,,,,,,,False
