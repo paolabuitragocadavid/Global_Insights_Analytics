@@ -29,7 +29,7 @@ del proyecto Global Insights Analytics.
 
 ## Materiales de sustentación
 
-- Presentación académica editable en PowerPoint.
+- Presentación en PowerPoint.
 - Enlace al video de sustentación académica.
 
 ## Duración de la sustentación
