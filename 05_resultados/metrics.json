@@ -1,0 +1,16 @@
+{
+  "rows": 117,
+  "countries": 13,
+  "year_min": 2015,
+  "year_max": 2023,
+  "mean_internet_latest": 82.63435684615385,
+  "mean_gdp_latest": 13891.483160919877,
+  "mean_index_latest": 131.51562495430187,
+  "top_country_latest": "España",
+  "bottom_country_latest": "Panamá",
+  "spearman_gdp_internet": 0.6318681318681317,
+  "spearman_p_value": 0.020516042572872466,
+  "document_count": 3,
+  "document_countries": 3,
+  "digital_sentences": 231
+}
