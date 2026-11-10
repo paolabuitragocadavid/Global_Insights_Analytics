@@ -1,9 +1,9 @@
 
-# Informe académico final — Global Insights Analytics
+# Informe final — Global Insights Analytics
 
 ## Descripción
 
-Esta carpeta contiene el informe académico final del
+Esta carpeta contiene el informe final del
 Trabajo Final Integrador de la Unidad 6, correspondiente
 a la asignatura Visualización Avanzada de Datos de la
 Especialización en Big Data y Analítica de Datos de la
