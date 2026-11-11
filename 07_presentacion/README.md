@@ -30,13 +30,10 @@ del proyecto Global Insights Analytics.
 ## Materiales de sustentación
 
 - Presentación en PowerPoint.
-- Enlace al video de sustentación académica.
 
-## Duración de la sustentación
+## Video de sustentación académica
 
-La exposición está diseñada para una duración
-aproximada de 8 a 9 minutos, conforme al tiempo
-establecido para la actividad académica.
+[Ver sustentación de Global Insights Analytics en YouTube](https://youtu.be/uwM3-oQYIVs)
 
 ## Dashboard interactivo
 
